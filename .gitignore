@@ -1,0 +1,7 @@
+backend
+frontend
+mysql/mysql_data
+
+# submodules
+Techeer-web-backend
+Techeer-web-frontend
