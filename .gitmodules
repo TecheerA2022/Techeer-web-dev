@@ -1,0 +1,6 @@
+[submodule "Techeer-web-backend"]
+	path = Techeer-web-backend
+	url = https://github.com/TecheerA2022/Techeer-web-backend.git
+[submodule "Techeer-web-frontend"]
+	path = Techeer-web-frontend
+	url = https://github.com/TecheerA2022/Techeer-web-frontend.git
